@@ -1,2 +1,5 @@
 .idea/
 .DS_Store
+target/
+project/target/
+src/main/resources/twitter.txt
